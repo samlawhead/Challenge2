@@ -1,0 +1,993 @@
+   50  cd Desktop
+   51  cd..
+   52  cd ..
+   53  mkdir test
+   54  rmdir test
+   55  mkdir test
+   56  cd test
+   57  cd ..
+   58  rmdir test
+   59  mkdir test
+   60  cd test
+   61  touch sample.txt
+   62  ls
+   63  rm sample.txt
+   64  cd ..
+   65  rmdir test
+   66  mkdir test
+   67  touch sample.txt
+   68  mv sample.txt buttfuck.txt
+   69  ls
+   70  cd test
+   71  ls
+   72  cd ..
+   73  rm buttfuck.txt
+   74  ls
+   75  rmdir test
+   76  conda activate dev
+   77  conda activate dev
+   78  hj
+   79  conda deactivate dev
+   80  jupyter lab
+   81  conda deactivate
+   82  jupyter lab
+   83  conda deactivate
+   84  config
+   85  pwd
+   86  pwd
+   87  ls
+   88  cd
+   89  cd
+   90  cd Desktop
+   91  pwd
+   92  ls
+   93  mkdir FinTeCCC
+   94  rmdir FinTeCCC
+   95  cd ~
+   96  pwd
+   97  ls
+   98  cd 
+   99  clear
+  100  exit
+  101  ls
+  102  cd
+  103  cd~
+  104  cd ~
+  105  ls
+  106  cd Desktop
+  107  cd
+  108  cd Desktop
+  109  mkdir Fintech Workspace
+  110  cd Desktop
+  111  ls
+  112  cd Workspace
+  113  cd Fintech
+  114  cd Workspace
+  115  ls
+  116  cd Python_Project
+  117  ls
+  118  conda activate conda
+  119  conda activate dev
+  120  -- Version
+  121  -- version
+  122  --vesrion
+  123  --version
+  124  python --version
+  125  python update
+  126  cd ~
+  127  python update
+  128  cd Fintech
+  129  cd Desktop
+  130  cd Fintech
+  131  cd Workspace
+  132  ls
+  133  cd Python_Project
+  134  ls
+  135  code .
+  136  conda activate dev
+  137  python --version
+  138  code .
+  139  code .
+  140  code .
+  141  conda create -n dev python=3.7 anaconda
+  142  conda activate dev
+  143  echo  ${SHELL}
+  144  conda init zsh
+  145  conda deactivate
+  146  conda update conda
+  147  conda create -n deve python+3.7 anaconda
+  148  conda create -n dev python=3.7 anaconda
+  149  conda activate dev
+  150  conda deactivate dev
+  151  conda activate dev
+  152  jupyter lab
+  153  python --version
+  154  brew install python3
+  155  cd Fintech
+  156  cd Desktop
+  157  cd Fintech
+  158  cd Python_Project
+  159  ls
+  160  sl
+  161  ls
+  162  cd Workspace
+  163  ls
+  164  cd Python_Project
+  165  ls
+  166  conda activate dev
+  167  python --version
+  168  code . 
+  169  code . 
+  170  code
+  171  python hello_python.py
+  172  conda deactivate
+  173  code .
+  174  conda activate dev
+  175  code .
+  176  cd desktop
+  177  cd fintech
+  178  cd workspace
+  179  cd Python_project
+  180  code .
+  181  ls
+  182  code .
+  183  code. python.py
+  184  shell command
+  185  ls
+  186  'code .'
+  187  conda activate dev
+  188  cd desktop
+  189  cd fintech
+  190  ls
+  191  cd workspace
+  192  ls
+  193  cd python_project
+  194  ls
+  195  conda activate dev
+  196  python --version
+  197  code .
+  198  python hello_python.py
+  199  conda deactivate
+  200  cd desktop
+  201  cd fintech
+  202  cd workspace
+  203  ls
+  204  cd Python_Project
+  205  conda activate conda
+  206  conda activate dev
+  207  code .
+  208  chsh -s /bin/bash
+  209  chsh -s /bin/bash
+  210  cd desktop
+  211  cd fintech
+  212  ls
+  213  cd workspace
+  214  ls
+  215  cd Python_Project
+  216  conda activate dev
+  217  code .
+  218  ls
+  219  python hello_python.py
+  220  conda deactivate
+  221  code .
+  222  pwd
+  223  conda env list
+  224  conda info
+  225  pwd
+  226  cd desktop
+  227  cd Fintech
+  228  cd Workspace
+  229  cd python_project
+  230  ls
+  231  python hello_python.py
+  232  conda activate dev
+  233  code .
+  234  python M1L3.py
+  235  python m1L3.py
+  236  python m1l3.py
+  237  python m1l3.py
+  238  pyton m1l3.py
+  239  python m1l3.py
+  240  python MP3.py
+  241  python MP3.py
+  242  cd fintech
+  243  cd ~
+  244  cd desktop
+  245  cd fintech
+  246  cd class_1_activities
+  247  cd 01_ins_variables
+  248  code .
+  249  cd solved
+  250  code .
+  251  cd variables.py
+  252  cd..
+  253  cd ..
+  254  cd unsolved
+  255  code .
+  256  cd ~
+  257  cd desktop
+  258  cd fintech
+  259  cd 01_hello_variable_world
+  260  code .
+  261  python hello_variable_world.py
+  262  code .
+  263  python hello_variable_world.py
+  264  conda deactivate
+  265  cd desktop
+  266  cd fintech
+  267  cd 01_hello_variable_world
+  268  python hello_variable_world.py
+  269  code .
+  270  cd unsolved
+  271  code .
+  272  python hello_variable_world.py
+  273  python hello_variable_world.py
+  274  python hello_variable_world.py
+  275  conda deactivate
+  276  cd ~
+  277  ls -al ~/.ssh
+  278  ssh -T git@github.com
+  279  cd desktop
+  280  cd fintech
+  281  cd gitREPO
+  282  git init
+  283  git branch -m <master>
+  284  git master -m <gitREPO>
+  285  git config --global init.defaultBranch <gitREPO>
+  286  git add .
+  287  cd desktop
+  288  cd fintech
+  289  cd gitrepo
+  290  git clone <gitrepo>
+  291  git clone gitrepo
+  292  git clone https://github.com/samlawhead/UWBootcampSL.git
+  293  touch SL_stock_pick.txt
+  294  cd desktop
+  295  cd ~
+  296  cd desktop
+  297  cd fintech
+  298  git clone https://github.com/samlawhead/UWBootcampSL.git 
+  299  cd UWBootcampSL
+  300  touch SL_Stock_Pick.txt
+  301  git add .
+  302  git commit -m "some message"
+  303  git push origin main
+  304  git push origin main
+  305  git push origin main
+  306  /opt/homebrew/bin/python3
+  307  cd desktop
+  308  cd fintech
+  309  cd workspace
+  310  code .
+  311  python MP3.py
+  312  cd python_project
+  313  python MP3.py
+  314  conda activate dev
+  315  python mp3.py
+  316  python mp3.py
+  317  python mp3.py
+  318  python mp3.py
+  319  python mp3.py
+  320  python mp3.py
+  321  python mp3.py
+  322  python mp3.py
+  323  conda deactivate
+  324  cd desktop
+  325  cd fintech
+  326  cd 02_listing_assets
+  327  cd unsolved
+  328  code .
+  329  python listing_assets.py
+  330  python listing_assets.py
+  331  python listing_assets.py
+  332  python listing_assets.py
+  333  code .
+  334  python marcus.py
+  335  python marcus.py
+  336  python marcus.py
+  337  python marcus.py
+  338  python marucs.py
+  339   python marcus.py
+  340  python marcus.py
+  341  conda deactivate
+  342  cd ~
+  343  cd desktop
+  344  cd fintech
+  345  cd 03_the_401k_shuffle
+  346  cd unsolved
+  347  code .
+  348  python the_401k_shuffle.py
+  349  conda activate
+  350  python the_401k_shuffle.py
+  351  conda deactivate
+  352  cd desktop
+  353  cd fintech
+  354  cd 03_The_401k_shuffle
+  355  cd unsolved
+  356  code.
+  357  code .
+  358  conda activate dev
+  359  python the_401k_shuffle.py
+  360  conda deactivate
+  361  cd desktop
+  362  cd class_1_activities
+  363  cd 01_ins_variables
+  364  cd unsolved
+  365   code .
+  366  cd ~
+  367  cd desktop
+  368  cd fintech
+  369  cd UWgithub
+  370  git clone https://github.com/samlawhead/uw-fintech-22.git
+  371  cd uw-fintech-22
+  372  mv ~/Desktop/sam_lawhead.md ~/Desktop/Fintech/Uwgithub/uw-fintech-22/Simulation-1
+  373  cd simulation 1
+  374  cd simulation-1
+  375  git add .
+  376  git commit -m "some message"
+  377  git push origin main
+  378  cd ..
+  379  git add .
+  380  git commit -m "some message"
+  381  git push origin main
+  382  cd desktop
+  383  cd fintech
+  384  cd uwgithub
+  385  cd uw-fintech-22
+  386  git add .
+  387  git commit -m "some message"
+  388  git push origin main
+  389  git push origin Simulation-1
+  390  git checkout Simulation-1
+  391  git checkout -b simulation-1
+  392  git add -A
+  393  git commit -m "some message"
+  394  git push origin Simulation-1
+  395  cd desktop
+  396  cd fintech
+  397  cd uwgithub
+  398  cd uw-fintech-22
+  399  git add .
+  400  git commit -m "upload file"
+  401  git push
+  402  git push --set-upstream origin simulation-1
+  403  git add -A
+  404  git commit -m "some message"
+  405  git push origin simulation-1
+  406  git commit --amend --reset-author
+  407  cd desktop
+  408  cd fintech
+  409  cd uwgithub
+  410  cd uw-fintech-22
+  411  git add -A
+  412  git commit -m "some message"
+  413  git add -A
+  414  git commit -m "some message"
+  415  git checkout main
+  416  get checkout -b main
+  417  git checkout -b main
+  418  git add -A
+  419  git commit -m "some message"
+  420  git add -A
+  421  git commit -m "some message"
+  422  git push origin main
+  423  cd fintech
+  424  cd desktop
+  425  cd fintech
+  426  git clone https://github.com/samlawhead/uw-fintech-22.git
+  427  cd uw-fintech-22
+  428  git add .
+  429  git commit -m "some message"
+  430  git push origin main
+  431  git add .
+  432  git commit -m "some message"
+  433  cd desktop
+  434  cd fintech
+  435  cd uw-fintech-22
+  436  git add -A
+  437  git commit -m "some message"
+  438  git push origin main
+  439  git push origin simulation-1
+  440  cd fintech
+  441  cd uw-fintech-22
+  442  cd desktop
+  443  cd fintech/uw-fintech-22
+  444  git add -A
+  445  git commit -m "some message"
+  446  git push origin main
+  447  git commit -a -m "Some Message"
+  448  git status
+  449  git init -b main
+  450  git add . && git commit -m "initial commit"
+  451  cd ~/desktop
+  452  cd fintech
+  453  cd ..
+  454  cd class_1_activities
+  455  cd unsolved
+  456  cd 01_ins_variables
+  457  conda activate dev
+  458  cd unsolved
+  459  python variables.py
+  460  python variables.py
+  461  python variables.py
+  462  python variables.py
+  463  python variables.py
+  464  python variables.py
+  465  cd ..
+  466  cd ..
+  467  cd 03_ins_lists
+  468  cd unsolved
+  469  code .
+  470  python lists.py
+  471  clear
+  472  cd ..
+  473  cd ..
+  474  cd 01_Ins_Variables
+  475  cd 
+  476  cd desktop
+  477  cd 
+  478  cd desktip
+  479  python lists.py
+  480  cd desktop
+  481  cd FinTech
+  482  cd uw-fintech-22
+  483  conda deactivate
+  484  git clone https://github.com/samlawhead/Challenge1.git
+  485  git add -A
+  486  cd fintech
+  487  cd desktop/fintech
+  488  git clone https://github.com/samlawhead/ClassStuff.git
+  489  cd classstuff
+  490  git status
+  491  git space add .
+  492  git add .
+  493  git add .
+  494  git add -A
+  495  git commit -m "some message"
+  496  git push origin main
+  497  cd/fintech
+  498  cd/desktop/fintech
+  499  cd desktop/fintech
+  500  cdoe .
+  501  code .
+  502  python conditionals.py
+  503  python condtionals.py
+  504  python condtionals.py
+  505  clear
+  506  python condtionals.py
+  507  python condtionals.py
+  508  python condtionals.py
+  509  python condtionals.py
+  510  python condtionals.py
+  511  python condtionals.py
+  512  python condtionals.py
+  513  python condtionals.py
+  514  python condtionals.py
+  515  python condtionals.py
+  516  python condtionals.py
+  517  python condtionals.py
+  518  python condtionals.py
+  519  cd 01_conditional_statement/unsolved
+  520  code .
+  521  conda activate dev
+  522  code .
+  523  python conditional_statements.py
+  524  python conditional_statement.py
+  525  python conditional_statement.py
+  526  python conditional_statement.py
+  527  python stuff.py
+  528  python stuff.py
+  529  python stuff.py
+  530  python stuff.py
+  531  python stuff.py
+  532  python stuff.py
+  533  python stuff.py
+  534  python stuff.py
+  535  python stuff.py
+  536  python stuff.py
+  537  python stuff.py
+  538  python stuff.py
+  539  cd ..
+  540  cd ..
+  541  cd 02_nested_conditionals
+  542  cd unsolved
+  543  cd unsolved
+  544  python nested_conditionals.py
+  545  python nested_conditionals.py
+  546  python nested_conditionals.py
+  547  python nested_conditionals.py
+  548  cd ..
+  549  cd
+  550  cd ..
+  551  cd desktop
+  552  cd ~
+  553  cd desktop
+  554  cd fintech/03_split_second_homebuying/unsolved
+  555  pythony split_second_homebuying.py
+  556  python split_second_homebuying.py
+  557  python split_second_homebuying.py
+  558  python split_second_homebuying.py
+  559  python split_second_homebuying.py
+  560  python split_second_homebuying.py
+  561  python split_second_homebuying.py
+  562  python split_second_homebuying.py
+  563  python split_second_homebuying.py
+  564  conda deactivate
+  565  python conditionals.py
+  566  cd desktop/fintech
+  567  cd class_2_activities
+  568  cd 04_ins_conditionals
+  569  cd solved
+  570  python conditionals.py
+  571  cd desktop/fintech
+  572  conda activate dev
+  573  code .
+  574  python functions.py
+  575  python functions.py
+  576  python functions.py
+  577  python functions.py
+  578  python functions.py
+  579  python functions.py
+  580  python functions.py
+  581  python functions.py
+  582  python functions.py
+  583  python functions.py
+  584  python functions.py
+  585  python functions.py
+  586  def print_coffee():
+  587  python functions.py
+  588  python functions.py
+  589  python functions.py
+  590  python functions.py
+  591  python functions.py
+  592  cd 01_a_definitive_buy/unsolved
+  593  python a_definitive_buy.py
+  594  python a_definitive_buy.py
+  595  python a_definitive_buy.py
+  596  python a_definitive_buy.py
+  597  python a_definitive_buy.py
+  598  python a_definitive_buy.py
+  599  python a_definitive_buy.py
+  600  python a_definitive_buy.py
+  601  python a_definitive_buy.py
+  602  python a_definitive_buy.py
+  603  cd ..
+  604  cd ..
+  605  python babydoll.py
+  606  cd _01_a_definitive_buy/unsolved
+  607  cd 01_a_definitive_buy/unsolved
+  608  python babydoll.py
+  609  python babydoll.py
+  610  cd ..
+  611  cd ..
+  612  cd 03_split_second_homebuying/unsolved
+  613  returned goods.py
+  614  python returned_goods.py
+  615  cd ..
+  616  cd ..
+  617  cd 02_returned_goods
+  618  cd unsolved
+  619  python returned_good.py
+  620  python returned_goods.py
+  621  python returned_goods.py
+  622  python returned_goods.py
+  623  python returned_goods.py
+  624  python returned_goods.py
+  625  python returned_goods.py
+  626  python returned_goods.py
+  627  d ..
+  628  cd ..
+  629  cd ..
+  630  cd 03_split_second_homebuying/unsolved
+  631  cd ..
+  632  cd ..
+  633  cd 03_split_second_homebuying_part_2/unsolved
+  634  python split_second_part_2.py
+  635  python split_second_part_2.py
+  636  python split_second_part_2.py
+  637  python split_second_part_2.py
+  638  python split_second_part_2.py
+  639  cd ..
+  640  cd ..
+  641  python iterators.py
+  642  python iterators.py
+  643  python iterators.py
+  644  python iterators.py
+  645  python iterators.py
+  646  python iterators.py
+  647  python iterators.py
+  648  python iterators.py
+  649  python iterators.py
+  650  cd 01_racking_up_the_profit
+  651  cd unsolved
+  652  python racking_up_the_profit.py
+  653  python racking_up_the_profit.py
+  654  python racking_up_the_profit.py
+  655  python racking_up_the_profit.py
+  656  cd ..
+  657  cd ..
+  658  conda deactivate
+  659  cd desktop/fintech
+  660  code .
+  661  conda activate dev
+  662  python nested_containers.py
+  663  python nested_containers.py
+  664  python nested_containers.py
+  665  python nested_containers.py
+  666  python nested_containers.py
+  667  python nested_containers.py
+  668  python nested_containers.py
+  669  python nested_containers.py
+  670  python nested_containers.py
+  671  python nested_containers.py
+  672  python nested_containers.py
+  673  python nested_containers.py
+  674  python nested_containers.py
+  675  python nested_containers.py
+  676  python nested_containers.py
+  677  python nested_containers.py
+  678  python nested_containers.py
+  679  python nested_containers.py
+  680  python nested_containers.py
+  681  python nested_containers.py
+  682  import pathlib
+  683  from pathlib import Path
+  684  import pathlib
+  685  import pathlib
+  686  python imports_.py
+  687  f
+  688  f
+  689  python imports_.py
+  690  python imports_.py
+  691  python imports_.py
+  692  python imports_.py
+  693  python imports_.py
+  694  cd desktop/fintech
+  695  python dicto.py
+  696  dicto.py
+  697  python dicto.py
+  698  python dicto.py
+  699  python dicto.py
+  700  python imports_.py
+  701  python imports_.py
+  702  python imports_.py
+  703  conda deactivate
+  704  cd fintech/desktop
+  705  code .
+  706  cd fintech/desktop
+  707  cd desktop/fintech
+  708  code .
+  709  python imports_.py
+  710  python imports_.py
+  711  /opt/homebrew/bin/python3
+  712  conda activate dev
+  713  cd desktop/fintech
+  714  python sammytime.py
+  715  python sammytime.py
+  716  python sammytime.py
+  717  clear
+  718  cd 04_automating_equity_rounds.py
+  719  cd 04_automating_equity_rounds/unsolved
+  720  python _o$-automating_equity_rounds.py
+  721  python 04_automating_equity_rounds.py
+  722  python automated_equity_rounds.py
+  723  python automated_equity_rounds.py
+  724  python automated_equity_rounds.py
+  725  python automated_equity_rounds.py
+  726  conda deactivate
+  727  clear
+  728  cd ..
+  729  cd ..
+  730  cd starter_code
+  731  cd ..
+  732  cd ..
+  733  cd github_upload
+  734  python loan_analyzer.py
+  735  python loan_analyzer.py
+  736  python loan_analyzer.py
+  737  python loan_analyzer.py
+  738  python loan_analyzer.py
+  739  python loan_analyzer.py
+  740  python loan_analyzer.py
+  741  python loan_analyzer.py
+  742  python loan_analyzer.py
+  743  python loan_analyzer.py
+  744  python la.py
+  745  python la.py
+  746  python la.py
+  747  python la.py
+  748  python la.py
+  749  python la.py
+  750  python la.py
+  751  python la.py
+  752  python loan_analyzer.pty
+  753  python loan_analyzer.py
+  754  python loan_analyzer.py
+  755  python loan_analyzer.py
+  756  python loan_analyzer.py
+  757  python loan_analyzer.py
+  758  python loan_analyzer.py
+  759  python loan_analyzer.py
+  760  cd ..
+  761  git clone github_upload
+  762  cd github_upload
+  763  git add.
+  764  git add .
+  765  cd desktop
+  766  cd ..
+  767  git clone https://github.com/samlawhead/Challenge1.git
+  768  cd challenge1
+  769  git add .
+  770  git commit -m "uploading challenge 1"
+  771  git push origin main
+  772  cd ..
+  773  pip -v
+  774  pip freeze
+  775  pip install fire
+  776  conda deactivate
+  777   /usr/bin/env /opt/homebrew/bin/python3 /Users/cobra/.vscode/extensions/ms-python.python-2022.6.3/pythonFiles/lib/python/debugpy/launcher 62568 -- /Users/cobra/Desktop/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/02-lists-01/Unsolved/lists-01.py 
+  778  cd class_1_activities
+  779  cd desktop
+  780  cd class_1_activities
+  781  python variables-01.py
+  782  cd unsolved
+  783  cd 01_stu_python_code_drills/unsolved
+  784  python variables-01.py
+  785  cd unsolved
+  786  cd 01-variables-01
+  787  cd unsolved
+  788  python variables-01.py
+  789  python variables-01.py
+  790  cd ..
+  791  cd 02-lists-01
+  792  cd 02-lists-01c
+  793  conda deactivate
+  794  /opt/homebrew/bin/python3 /Users/cobra/Desktop/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  795  cd desktop
+  796  cd loan/opt/homebrew/bin/python3 /Users/cobra/Desktop/01_Loan_Qualifier_Financial_Calculations/Solved/apddp.py
+  797  /opt/homebrew/bin/python3 /Users/cobra/Desktop/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  798   /usr/bin/env /opt/homebrew/bin/python3 /Users/cobra/.vscode/extensions/ms-python.python-2022.6.3/pythonFiles/lib/python/debugpy/launcher 59756 -- /Users/cobra/Desktop/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  799  cd desktop
+  800  cd /Users/cobra/Desktop/01_Loan_Qualifier_Financial_Calculations
+  801  cd unsolved
+  802  python app.py
+  803  python app.py
+  804  python app.py
+  805  conda activate dev
+  806  python app.py
+  807  cd ..
+  808  cd solved
+  809  appsolv.py
+  810  python appsolv.py
+  811  cd ..
+  812  cd desktop
+  813  cd ..
+  814  cd /Users/cobra/Desktop/02_Loan_Qualifier_Filtering_Data
+  815  cd unsolved
+  816  python app.py
+  817  cd ..
+  818  cd solved
+  819  python appsolv.py
+  820  python app.py
+  821  python appsolv.py
+  822  python app.py
+  823  cd ..
+  824  cd unsolved
+  825  python app.py
+  826  /opt/homebrew/bin/python3 "/Users/cobra/Desktop/02_Loan_Qualifier_Filtering_Data 2/Unsolved/app.py"
+  827  conda activate dev
+  828  cd desktop
+  829  cd fintech
+  830  git clone git@github.com:zcor/uw-fintech-22.git
+  831  cd challenge1
+  832  git add -A
+  833  git commit -m "made some changes to comments"
+  834  git push -f origin main
+  835  cd ..
+  836  cd uw-fintech-22
+  837  git pull
+  838  cd ..
+  839  cd ..
+  840  cd /Users/cobra/Desktop/02_Loan_Qualifier_Filtering_Data\ 2
+  841  cd unsolved
+  842  python app.py
+  843  cd desktop
+  844  cd ..
+  845  cd ..
+  846  cd ..
+  847  cd ~
+  848  conda create -n atmdev python=3.7 anaconda
+  849  conda activate atmdev
+  850  pip install -r requirements.txt
+  851  cd desktop
+  852  cd fintech
+  853  cd uw-fintech-22
+  854  cd activities
+  855  cd 02-financial-applications-python
+  856  cd 2
+  857  cd activities
+  858  cd 02_stu_build_atm_functions
+  859  cd unsolved
+  860  pip install -r requirements.txt
+  861   cd ~
+  862  pip install fire
+  863  pip install questionary
+  864  conda deactivate
+  865  conda activate dev
+  866  cd desktop
+  867  cd /Users/cobra/Desktop/01_Loan_Qualifier_Financial_Calculations
+  868  cd /Users/cobra/Desktop/01_Modularize_Your_Loan_Qualifier_Application
+  869  python appsolv.py
+  870  python appsolv.py
+  871  cd /Users/cobra/Desktop/01_Modularize_Your_Loan_Qualifier_Application_Part_2
+  872  cd unsolved
+  873  code .
+  874  python app.py
+  875  python app.py
+  876  python app.py
+  877  pip install fire
+  878  cd ~
+  879  cd desktop
+  880  code .
+  881  cli.py
+  882  python cli.py
+  883  python cli.py
+  884  python cli.py
+  885  python cli.py
+  886  python cli.py
+  887  python cli.py
+  888  python cli.py
+  889  python cli.py
+  890  python cli.py
+  891  python cli.py
+  892  python cli.py
+  893  python cli.py
+  894  python cli.py
+  895  python cli.py
+  896  python cli.py
+  897  python cli.py --pants=True
+  898  python cli.py --pants=True
+  899  python cli.py --pants=True
+  900  python cli.py --pants=True
+  901  python cli.py --pants=True
+  902  python cli.py
+  903  python cli.py --pants=True
+  904  python cli.py --pants=False
+  905  python cli.py --pants=False
+  906  python cli.py --pants=False
+  907  python cli.py --pants=True
+  908  cd /Users/cobra/Desktop/01_Adding_Fire_to_the_Loan_Qualifier_App
+  909  cd unsolved
+  910  code .
+  911  python app.py
+  912  python app.py
+  913  python app.py --credit_score=750
+  914  python app.py --credit_score=450
+  915  python app.py --credit_score=450
+  916  python app.py --credit_score=650
+  917  python app.py
+  918  python app.py --credit_Score=750 --debt=3000 --income=500
+  919  python app.py --credit_score=750 --debt=3000\n --income=500
+  920  python app.py --credit_score=750 --debt=3000 --income=5000
+  921  python app.py --credit_score=750
+  922  python app.py --credit_score=750 --debt=3000
+  923  python app.py --credit_score=750 --debt=3000 income=1000
+  924  python app.py --credit_score=750 --debt=3000 income=45000
+  925  python app.py
+  926  python app.py --credit_score=750
+  927  python app.py --credit_score=750 --debt=3000
+  928  python app.py --credit_score=750 --debt=3000 --income=20000
+  929  python app.py --credit_score=750 --debt=3000 --income=20000
+  930  pip install questionary
+  931  cd ~
+  932  cd desktop
+  933  touch dialog.py
+  934  code .
+  935  python dialog.py
+  936  python dialog.py
+  937  python dialog.py
+  938  cd /Users/cobra/Desktop/02_Adding_questionary_to_Loan_Qualifier
+  939  code .
+  940  python app.py --credit_score=750 --debt=5000 --income=20000
+  941  cd unsolved
+  942  python app.py --credit_score=750 --debt=5000 --income=20000
+  943  python app.py
+  944  python app.py
+  945  python app.py
+  946  cd ~
+  947  git config --list
+  948  clear
+  949  CMD+i
+  950  CMD + i
+  951  cmd+i
+  952  curl -O https://raw.githubusercontent.com/MartinSeeler/iterm2-material-design/master/material-design-colors.itermcolors
+  953  cd Downloads
+  954  sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+  955  cd desktop
+  956  cd fintech
+  957  git status
+  958  cd Challenge1
+  959  git status
+  960  cd ..
+  961  git clone git@github.com:samlawhead/Test_Repo.git
+  962  cd test_repo
+  963  git status
+  964  git add README.md
+  965  git status
+  966  touch newfile.txt
+  967  git status
+  968  ls
+  969  git add newfile.txt
+  970  git status
+  971  git commit -m "adding newfile and updated README"
+  972  git status
+  973  git push
+  974  cd ..
+  975  git clone git@github.com:samlawhead/Challenge2.git
+  976  cd challenge2
+  977  git status
+  978  git add loan_qualifier_app/
+  979  git status
+  980  git commit -m "Initial commit"
+  981  git push
+  982  git status
+  983  cd ~
+  984  conda deactivate
+  985  conda activate dev
+  986  conda list
+  987  python
+  988  ls -al ~/.ssh
+  989  which brew
+  990  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/uninstall.sh)"
+  991  conda --version
+  992  uninstall_oh_my_zsh
+  993  conda activate dev
+  994  conda deactivate
+  995  erdfgdfd
+  996  cwd
+  997  cwd
+  998  cd ..
+  999  cd ~
+ 1000  cwd
+ 1001  pwd
+ 1002  cd desktop/fintech/challenge2
+ 1003  code .
+ 1004  git status
+ 1005  git add loan_qualifier_app
+ 1006  git status
+ 1007  git add readme.md
+ 1008  git status
+ 1009  git commit -m "saving changes"
+ 1010  git push
+ 1011  conda activate dev
+ 1012  python app.py
+ 1013  cd loan_qualifier_app
+ 1014  python app.py
+ 1015  python app.py
+ 1016  python app.py
+ 1017  python app.py
+ 1018  python app.py
+ 1019  python app.py
+ 1020  python app.py
+ 1021  python app.py
+ 1022  python app.py
+ 1023  cd ..
+ 1024  git status
+ 1025  git add qualifying_loans.csv
+ 1026  git add loan_qualifier_app/qualifying_loans.csv
+ 1027  git status
+ 1028  git commit -m "saving files again"
+ 1029  git push
+ 1030  cd loan_qualifier_app
+ 1031  python app.py
+ 1032  cd ..
+ 1033  git status
+ 1034  git add readme.md
+ 1035  git add loan_qualifier_app/app.py
+ 1036  git status
+ 1037  git add README.md
+ 1038  git status
+ 1039  git commit -m "saving again"
+ 1040  cd loan_qualifier_app
+ 1041  python app.py
+ 1042  python app.py
