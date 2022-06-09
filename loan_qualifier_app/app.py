@@ -111,7 +111,6 @@ def save_qualifying_loans(qualifying_loans):
         qualifying_loans (list of lists): The qualifying bank loans.
     """
    
-
     # Set output header
     header = ["bank_data", "credit_score", "debt", "income", "loan", "home_value"]
 
@@ -127,6 +126,7 @@ def save_qualifying_loans(qualifying_loans):
      # Notifies user the CSV file is being saved.
     print("Saving CSV file...")
 
+    # Writes CSV file.
     with open (csvpath, "w") as csvfile:
         csvwriter = csv.writer(csvfile, delimiter = ",")
         csvwriter.writerow(header)
